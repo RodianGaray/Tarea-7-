@@ -32,8 +32,9 @@ Permite detener procesos, cambiar prioridades y observar el comportamiento de lo
 | **nmap**        | Escanea redes y puertos para detectar hosts activos y servicios abiertos.     | `nmap 192.168.1.0/24`     | Muestra los dispositivos conectados y los puertos disponibles.            |
 | **lynis**       | Realiza auditorías de seguridad en el sistema operativo Linux.                | `sudo lynis audit system` | Reporte de vulnerabilidades, configuraciones inseguras y recomendaciones. |
 
-#### Ejemplo de glances:
+#### Instalacion de glances:
 
+![Tarea-7](6.jpg)  
 
 ## 2. IPv4 e IPv6 y comandos en Ubuntu
 ### IPv4
@@ -126,3 +127,11 @@ reboot
 ```
 
 📷 Ejemplo del proceso:
+![Tarea-7](6.jpg)  
+![Tarea-7](6.jpg)  
+![Tarea-7](6.jpg)  
+![Tarea-7](6.jpg)  
+![Tarea-7](6.jpg)  
+![Tarea-7](6.jpg)  
+![Tarea-7](6.jpg)  
+![Tarea-7](6.jpg)  
