@@ -129,16 +129,10 @@ reboot
 
 📷 Ejemplo del proceso:
 ![Tarea-7](2.jpg)   
-**Fig2**
 ![Tarea-7](3.jpg)   
-**Fig3**
 ![Tarea-7](4.jpg)   
-**Fig4**
 ![Tarea-7](5.jpg) 
-**Fig5**
 ![Tarea-7](6.jpg)   
-**Fig6**
 ![Tarea-7](7.jpg)  
-**Fig7**
 
 
