@@ -35,6 +35,7 @@ Permite detener procesos, cambiar prioridades y observar el comportamiento de lo
 #### Instalacion de glances:
 
 ![Tarea-7](1.jpg)  
+Fig1
 
 ## 2. IPv4 e IPv6 y comandos en Ubuntu
 ### IPv4
@@ -127,11 +128,18 @@ reboot
 ```
 
 📷 Ejemplo del proceso:
-![Tarea-7](2.jpg)  
-![Tarea-7](3.jpg)  
-![Tarea-7](4.jpg)  
-![Tarea-7](5.jpg)  
-![Tarea-7](6.jpg)  
+![Tarea-7](2.jpg)   
+Fig2
+![Tarea-7](3.jpg)   
+Fig3
+![Tarea-7](4.jpg)   
+Fig4
+![Tarea-7](5.jpg) 
+Fig5
+![Tarea-7](6.jpg)   
+Fig6
 ![Tarea-7](7.jpg)  
+Fig7
 ![Tarea-7](8.jpg)  
-![Tarea-7](9.jpg)  
+Fig8
+ 
